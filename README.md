@@ -1,6 +1,6 @@
 # Geg-Threejs
 
-Geg-Threejs与Geg-Babylonjs实现原理差不多，它是基于Geg.js开发的3D项目,项目基于[Threejs](https://github.com/mrdoob/three.js)引擎。
+Geg-Threejs与Geg-Babylonjs实现原理差不多，它是基于[Geg.js](https://github.com/GengineJS/geg.git)开发的3D项目,项目基于[Threejs](https://github.com/mrdoob/three.js)引擎。
 
 ## 安装
 
