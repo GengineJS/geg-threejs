@@ -5,11 +5,24 @@ Geg-Threejs与Geg-Babylonjs实现原理差不多，它是基于Geg.js开发的3D
 ## 安装
 
 ```
+git clone https://github.com/GengineJS/geg-threejs.git
+
+# 进入项目目录
+cd geg-threejs
 ```
 
 ## 目录结构
 
 ```
+├── src                       # 源代码
+│   ├── gegthree              # threejs组件
+│   ├── libs                  # 用到的源码库
+│   ├── app.js                # 功能入口
+│   └── template.xml          # template层级文件
+│   
+├── game.js                   # 微信小游戏入口
+├── game.json                 # 小游戏相关配置
+└── project.config.json       # 工程相关配置
 ```
 
 ## 组件核心
